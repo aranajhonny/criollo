@@ -1,6 +1,6 @@
 # sublime-criollo
 
-> Sublime syntax theme, based in vaporwave colors.
+> Sublime text syntax theme, based in vaporwave colors.
 
 ![](screenshot.png)
 
