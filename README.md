@@ -1,4 +1,4 @@
-# sublime-criollo
+# Criollo
 
 > Sublime text syntax theme, based in vaporwave colors.
 
